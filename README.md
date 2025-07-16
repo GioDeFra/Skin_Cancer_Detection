@@ -1,4 +1,4 @@
-#Skin_Cancer_Detection
+# Skin_Cancer_Detection
 
 Skin cancer is the most common human malignancy and is primarily diagnosed through visual inspection—starting with clinical screening and potentially followed by dermoscopic analysis, biopsy, and histopathological examination. However, the global shortage of dermatologists, especially in resource-limited settings, has encouraged the development of computer-aided diagnosis (CAD) systems. These systems, leveraging advances in artificial intelligence, aim to support clinicians in detecting patterns in dermatoscopic images and guiding the diagnostic process.
 
